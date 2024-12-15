@@ -169,7 +169,7 @@ ul {
   border: 2px solid #000;
 }
 .img-1 {
-  background-image: url(./myprofile.jpg);
+  background-image: url(./images/myprofile.jpg);
   background-position: center;
   object-fit: cover;
   background-repeat: no-repeat;
